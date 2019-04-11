@@ -25,3 +25,7 @@ And then, call various methods which post into your Slack.
 - UploadFile
 - UploadTexture
 - UploadScreenshot
+
+### Limitation
+
+<@user_name> mention disable in Slack API. Use <@user_id> instead.
