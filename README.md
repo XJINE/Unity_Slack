@@ -28,4 +28,4 @@ And then, call various methods which post into your Slack.
 
 ### Limitation
 
-<@user_name> mention disable in Slack API. Use <@user_id> instead.
+<@user_name> mention is ignored in Slack API. Use <@user_id> instead.
